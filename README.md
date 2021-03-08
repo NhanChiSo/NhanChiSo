@@ -11,7 +11,7 @@ My GitHub profile represent my journey 🏃‍♂️ Now I'm focusing to Fronten
 
 ## Mini project :3
 #### ReactJS:
-- Photo List: https://nhanchiso.github.io/photoList-React-Redux/photos
+- Photo List: https://nhanchiso.github.io/photoList-React-Redux/
 - Covid-19: https://nhanchiso.github.io/covid-19-ReactHook/
 #### PSD to HTML:
 - LeoSpa: https://nhanchiso.github.io/PSDtoHTML-LeoSpa/
