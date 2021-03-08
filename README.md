@@ -1,7 +1,7 @@
 ![My banner](https://i.imgur.com/HHilwST.jpg)
 # Hi there 👋 My name is Nhan 👋
 ## About me :3
-My GitHub profile represent my journey 🏃‍♂️ Now I'm focusing to Frontend.
+My GitHub profile represent my journey 🏃‍♂️ 
 #### I'm looking for intern/fresher Frontend, ReactJS
 
 - 😄 Funny and friendly.
